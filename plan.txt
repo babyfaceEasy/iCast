@@ -1,0 +1,15 @@
+Plan for the web
+
+Search for like 10 - 15 geo coordinates in between nigeria - DONE
+Then make theses coordinates appear as markers on the map - DONE
+
+Then take these coordinates and append current time to dem and save them in the database as unique identifiers with an array of picture names 
+e.g: unique identifier - 5.324_-7.78_10:11:12
+     names_of _pics ['cars', 'pple', 'actions']
+
+then find a slide show that loads the pics/pic once the marker is clicked.
+Extra:
+	Look for a web service that can scan thru your pictures and then given then tags, like locations, accidents, fun gatherings, traffic and so on.
+
+	Also write the code to get the current location of the user so we can 
+	do a quick demo for the person

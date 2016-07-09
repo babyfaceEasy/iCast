@@ -1,0 +1,63 @@
+Abuja, Nigeria
+Latitude: 9.076479 | Longitude: 7.398574
+
+Abuja St, Lagos, Nigeria
+Latitude: 6.465353 | Longitude: 3.4511
+
+Adeniyi Jones Ave, Ikeja, Nigeria
+Latitude: 6.611396 | Longitude: 3.345191
+
+
+Ogba Bus Stop Ijaiye Rd, Ikeja, Nigeria
+Latitude: 6.632661 | Longitude: 3.341303
+
+
+Maitama, Abuja, Nigeria
+Latitude: 9.085198 | Longitude: 7.497654
+
+
+Gariki Market, Enugu, Nigeria
+Latitude: 6.386812 | Longitude: 7.492579
+
+Tafa's Salon Along Ahmadu Bello Way, Victoria Island, Shop No. 61, Powa Market, Ahmadu Bello Way, Lagos, Nigeria
+Latitude: 6.422827 | Longitude: 3.412559
+
+Aderin Road, Osogbo, Nigeria
+Latitude: 7.792636 | Longitude: 4.578552
+
+Ori Oke Aanu Road, Ibadan, Nigeria
+Latitude: 7.48775 | Longitude: 3.919373
+
+97 Mission Rd, Benin City, Nigeria
+Latitude: 6.348056 | Longitude: 5.630493
+
+Murtala Mohammed Hwy, Calabar, Nigeria
+Latitude: 5.025283 | Longitude: 8.33313
+
+Konu Road, Nigeria
+Latitude: 6.686431 | Longitude: 3.438721
+
+Maiduguri-Numan Rd, Nigeria
+Latitude: 10.660608 | Longitude: 12.271729
+
+Taraba, Nigeria
+Latitude: 7.406048 | Longitude: 11.744385 ===
+
+Dan Dume - Birnin Gwari Rd, Malam Mudi, Nigeria
+Latitude: 11.070603 | Longitude: 6.756592
+
+Benin Sapele Rd, Benin City, Nigeria
+Latitude: 6.227934 | Longitude: 5.635986
+
+Nnewi-Nnobi Rd, Nnewi, Nigeria
+Latitude: 6.031311 | Longitude: 6.932373
+
+Ikot Offiong - Ekang Rd, Aking, Nigeria
+Latitude: 5.528511 | Longitude: 8.580322
+
+Unnamed Road, Oyigbo, Nigeria
+Latitude: 4.959615 | Longitude: 7.174072
+
+Marina Rd, Calabar, Nigeria
+Latitude: 4.959615 | Longitude: 8.294678
+
